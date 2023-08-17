@@ -12,7 +12,7 @@ O **Sistema de Aluguel de Carros Simplificado** é um sistema projetado para per
 
 - **Carro:** Representa um veículo disponível para aluguel. Mantém detalhes como marca, modelo, ano, placa e disponibilidade.
 
-- **Reserva:** Refere-se a uma reserva específica feita por um cliente para alugar um carro. Contém informações como data de início, data de término, cliente associado e carro reservado.
+- **Reserva:** Refere-se a uma reserva específica feita por um cliente para alugar um carro. Contém informações como data de início, data de término, data de entrega efetiva, cliente associado e carro reservado.
 
 ### 2. Relacionamentos
 
@@ -37,5 +37,5 @@ O **Sistema de Aluguel de Carros Simplificado** proporciona uma abordagem direta
 ## Desenvolvedores
 
 - Nelson Meduna GRR20223402
-- Rafael Hideki Nakamura GRR2022
+- Rafael Hideki Nakamura GRR20223396
 - William Yip GRR20185480
