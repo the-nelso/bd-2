@@ -33,3 +33,9 @@ O **Sistema de Aluguel de Carros Simplificado** é um sistema projetado para per
 ## Resumo
 
 O **Sistema de Aluguel de Carros Simplificado** proporciona uma abordagem direta para gerenciar o processo de aluguel de carros. Através das entidades Cliente, Carro e Reserva, e dos relacionamentos entre elas, o sistema oferece uma experiência simples e eficiente para clientes que desejam alugar um veículo por um período determinado.
+
+## Desenvolvedores
+
+- Nelson Meduna GRR20223402
+- Rafael Hideki Nakamura GRR2022
+- William Yip GRR20185480
